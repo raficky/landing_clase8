@@ -1,0 +1,65 @@
+header{
+	background: url(../images/bg.jpeg) no-repeat center;
+	background-size: cover; 
+}
+
+.main .headline {
+	color: white;
+	/*text-transform: uppercase; hace que la tipo sea en mayuscula*/
+	margin-bottom: 30px;
+}
+
+.main-section{
+	text-align: center;
+}
+.main .headline-caption{
+	color: white;
+	margin-bottom: 50px;
+}
+
+.main .navbar-latam{
+	background-color: transparent;
+	border-color: transparent;
+}
+
+.main .navbar-brand .logo{
+	width: 150px
+}
+
+.btn{
+	margin-bottom: 30px;
+}
+
+.main-section .people{
+	max-width: 400px;
+}
+
+.main-section .subtitulo{
+	text-transform: uppercase;
+}
+
+.second .conteiner{
+	background: #e2e2e2;
+	text-transform: uppercase;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	border-top: 2px solid #ccc
+}
+
+.second .conteiner .btn{
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+footer{
+	background: #262626;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-transform: uppercase;
+}
+
+.people{
+	margin-bottom: -10px;
+}
